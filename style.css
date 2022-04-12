@@ -1,0 +1,36 @@
+.box{
+    
+    
+   
+    margin:auto;
+    padding-top: 25px;
+   
+}
+body{
+    /* display: flex;
+    justify-content: center; */
+    background-color: aqua;
+    height: 100vh;
+}
+#text{
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+    border-radius: 5px;
+}
+#text:hover{
+    background-color: rgb(181, 223, 223);
+}
+.b1{
+    background-color: rgb(7, 100, 100);
+    color: aqua;
+    border: solid rgb(0, 64, 66) 2px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+.l1{
+    color: rgb(252, 5, 5);
+    font-size: larger;
+    text-shadow: 4px 4px 2px rgba(241,0,0,0.46);
+}
